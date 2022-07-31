@@ -22,6 +22,6 @@ Shows old version with deadbugging around IO translators. New version in this re
 
 ## BOM
 
-C1-C4 should be C0G. R6 was populated as 470 ohm.
+C1-C4 should be C0G. R6 was populated as 470 ohm thin film.
 
 <img src="docs/BOM.png">
